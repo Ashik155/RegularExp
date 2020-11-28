@@ -49,9 +49,11 @@ reg = /newyear/i;
 // const s = "harrrshad";
 // const ss = "weewgffhffharshawew";
 
-reg = /gmail\.com$/i;
-const s = "gmail.com";
-const ss = "yahooo.in";
+// reg = /gmail\.com$/i;
+// const s = "gmail.com";
+// const ss = "yahooo.in"
+
+
 
 const x = (reg,s)=>{
 
